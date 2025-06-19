@@ -13,7 +13,7 @@ node 或 bun
 
 ## 重新生成梵文及兩種譯本
 
-    node split
+    node splitter
 
 ## 檢查
 
